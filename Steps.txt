@@ -1,0 +1,4 @@
+conda create -n project_proctox python==3.10.0
+conda activate project_proctox
+pip install -r requirements.txt
+python online_proctoring_system.py
